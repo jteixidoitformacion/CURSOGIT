@@ -8,10 +8,5 @@ linea5
 linea6 YL
 linea7Araiz
 linea8
-<<<<<<< HEAD
 linea9 Maria
-linea10
-=======
-linea9
 linea10 rcr
->>>>>>> 110c95588d00dbcbcf5fce1b0be4847f189aa2b2
