@@ -4,7 +4,18 @@ linea3
 linea4-Ana
 linea5
 linea6 YL
+<<<<<<< HEAD
+linea7
+linea8 JAVIER VADILLO CASTILLO >>===>=>=>=> vvv fgfgfgfgf
+=======
 linea7Araiz
 linea8
 linea9 Maria
+<<<<<<< HEAD
+linea10
+=======
+>>>>>>> 96b9c50af02c732bc815f8011faaf7394293fe6b
+linea9
+=======
+>>>>>>> fcb91823282940cea8f5d31f8ac53ed0438cbab7
 linea10 rcr
