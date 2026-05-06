@@ -1,9 +1,11 @@
 linea1 Hola a todos soy Luis
 linea2
+linea1
+linea2 Yoli
 linea3
 linea4
 linea5
-linea6
+linea6 YL
 linea7
 linea8
 linea9
