@@ -1,12 +1,10 @@
-linea1 Hola a todos soy Luis x
-linea2
-linea1
+linea1 Hola a todos soy Luis
 linea2 Yoli
 linea3
 linea4-Ana
 linea5
 linea6 YL
-linea7Araiz
-linea8
+linea7 Araiz
+linea8 JAVIER VADILLO CASTILLO >>===>=>=>=> vvv fgfgfgfgf
 linea9 Maria
 linea10 rcr
