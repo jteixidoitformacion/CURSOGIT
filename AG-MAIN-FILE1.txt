@@ -1,14 +1,10 @@
 linea1 Hola a todos soy Luis
-linea2
-linea1
 linea2 Yoli
 linea3
 linea4-Ana
 linea5
-linea6
-linea7Araiz
 linea6 YL
-linea7
+linea7Araiz
 linea8
-linea9
+linea9 Maria
 linea10 rcr
